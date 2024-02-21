@@ -54,7 +54,7 @@ pytz
 pyxdg
 PyYAML
 
-rest_framework
+
 
 referencing
 reportlab
