@@ -53,6 +53,9 @@ python-debian
 pytz
 pyxdg
 PyYAML
+
+rest_framework
+
 referencing
 reportlab
 requests
