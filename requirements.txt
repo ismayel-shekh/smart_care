@@ -54,7 +54,8 @@ pytz
 pyxdg
 PyYAML
 
-
+djangorestframework
+django-filter
 
 referencing
 reportlab
