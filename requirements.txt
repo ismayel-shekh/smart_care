@@ -56,7 +56,9 @@ PyYAML
 
 djangorestframework
 django-filter
-
+Django-ckeditor
+django-js-asset
+djangorestframework-gis
 referencing
 reportlab
 requests
